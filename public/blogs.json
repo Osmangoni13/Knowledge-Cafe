@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "cover_pic": "https://i.ibb.co.com/KVBJfdz/dev.jpg",
+        "title": "The Rise of Web Development",
+        "author": "Jane Doe",
+        "author_img": "https://i.ibb.co.com/fC3MmRS/girl2.jpg",
+        "posted_date": "October 15, 2024",
+        "reading_time": 5,
+        "hashtags": [
+            "#webdevelopment",
+            "#javascript",
+            "#coding"
+        ]
+    },
+    {
+        "id": 2,
+        "cover_pic": "https://i.ibb.co.com/FD9TLtv/3.png",
+        "title": "Understanding React.js",
+        "author": "John Smith",
+        "author_img": "https://i.ibb.co.com/XFhfj7r/boy1.png",
+        "posted_date": "October 18, 2024",
+        "reading_time": 8,
+        "hashtags": [
+            "#reactjs",
+            "#frontend",
+            "#webdev"
+        ]
+    },
+    {
+        "id": 3,
+        "cover_pic": "https://i.ibb.co.com/c69fdm8/2.png",
+        "title": "CSS Tricks for Modern Web Design",
+        "author": "Alice Johnson",
+        "author_img": "https://i.ibb.co.com/YXDzzQh/girl1.jpg",
+        "posted_date": "October 20, 2024",
+        "reading_time": 6,
+        "hashtags": [
+            "#css",
+            "#webdesign",
+            "#tailwindcss"
+        ]
+    },
+    {
+        "id": 4,
+        "cover_pic": "https://i.ibb.co.com/C2jKZPb/appi.jpg",
+        "title": "Building APIs with Node.js",
+        "author": "Michael Brown",
+        "author_img": "https://i.ibb.co.com/hMSvQfQ/boy2.jpg",
+        "posted_date": "October 22, 2024",
+        "reading_time": 10,
+        "hashtags": [
+            "#nodejs",
+            "#backend",
+            "#api"
+        ]
+    },
+    {
+        "id": 5,
+        "cover_pic": "https://i.ibb.co.com/vhbZWm1/1.jpg",
+        "title": "A Guide to JavaScript ES6+ Features",
+        "author": "Emily Davis",
+        "author_img": "https://i.ibb.co.com/XFhfj7r/boy1.png",
+        "posted_date": "October 25, 2024",
+        "reading_time": 7,
+        "hashtags": [
+            "#javascript",
+            "#es6",
+            "#programming"
+        ]
+    }
+]
